@@ -64,8 +64,3 @@ a{
     text-decoration: none;
     width: 100%;
 }
-
-iframe{
-    display: grid;
-    justify-self: center;
-}
